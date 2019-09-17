@@ -1,3 +1,5 @@
+// reverse the characters of a string in place
+
 function reverse(arrayOfChars) {
   // Reverse the input array of characters in place
   let ptr = 0;
